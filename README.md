@@ -33,7 +33,7 @@ backend args:
 ```
 cd backend
 cargo build --release
-./target/release/joader --h
+./target/release/joader --help
 ```
 
 Add frontend to the system path of python
