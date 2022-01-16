@@ -1,0 +1,16 @@
+*.log
+parse_tools/
+__pycache__/
+frontend/__pycache__
+test/
+.vscode/
+./frontend/vscode/
+frontend/dataset/__pycache__
+frontend/loader/__pycache__
+
+backend/target/
+backend/log/
+backend/Cargo.lock
+evaluation/target
+evaluation/log/
+evaluation/Cargo.lock
