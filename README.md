@@ -58,13 +58,3 @@ for i in range(len):
 loader.delete()
 ds.delete(channel)
 ```
-
-## Roadmap
-
-- [x] Add dataset
-- [x] Add loader
-- [x] Add Sampler
-- [x] Add thread-pool for backend
-- [x] Support LMDB
-- [ ] Support Filesystem
-- [ ] Support filtering
